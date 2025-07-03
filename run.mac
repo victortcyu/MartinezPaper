@@ -1,0 +1,9 @@
+/run/numberOfThreads 1
+# /g4cmp/verbose 3
+/run/initialize
+# /g4cmp/producePhonons 0.02
+/process/setVerbose 2 G4CMPPhononBoundary
+/g4cmp/phononBounces 1000
+/run/beamOn 1
+
+# /run/beamOn 25000

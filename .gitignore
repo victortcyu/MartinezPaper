@@ -1,0 +1,17 @@
+/out/
+/build/
+
+*.suo
+*.user
+*.vcxproj.user
+.vs/
+
+*.obj
+*.o
+*.exe
+*.dll
+
+CMakeFiles/
+CMakeCache.txt
+*.ninja
+*:Zone.Identifier
